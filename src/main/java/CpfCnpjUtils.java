@@ -122,6 +122,12 @@ public class CpfCnpjUtils {
         System.out.println("CPF é válido? " + isCpfCnpj(cpfInvalido));
         System.out.println("CNPJ é válido? " + isCpfCnpj(cnpjInvalido));
 
+        System.out.println("CPF é inválido? " + isNotCpfCnpj(cpfValido));
+        System.out.println("CNPJ é inválido? " + isNotCpfCnpj(cnpjValido));
+
+        System.out.println("CPF é inválido? " + isNotCpfCnpj(cpfInvalido));
+        System.out.println("CNPJ é inválido? " + isNotCpfCnpj(cnpjInvalido));
+
         System.out.println("CPF mascarado: " + mascararCpfCnpj(cpfValido));
         System.out.println("CNPJ mascarado: " + mascararCpfCnpj(cnpjValido));
 
