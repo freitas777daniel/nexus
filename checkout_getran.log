@@ -1,0 +1,18 @@
+ago. 21, 2024 3:52:49 PM CheckoutGetran checkoutGetran
+GRAVE: O diretório de destino já existe. Operação cancelada.
+ago. 21, 2024 3:53:17 PM CheckoutGetran checkoutGetran
+GRAVE: O diretório de destino já existe. Operação cancelada.
+ago. 21, 2024 3:53:24 PM CheckoutGetran checkoutGetran
+GRAVE: O diretório de destino já existe. Operação cancelada.
+ago. 21, 2024 3:54:05 PM CheckoutGetran checkoutGetran
+INFORMAÇÕES: Iniciando checkout SVN para tipo de projeto 160
+ago. 21, 2024 3:54:05 PM CheckoutGetran checkoutSvn
+INFORMAÇÕES: Iniciando checkout SVN para URL: svn+ssh://daniel.souza@172.25.136.61/usr/svn/veiculo/branches/ISSUES 2023/balcaodigital_dev/getran
+ago. 21, 2024 3:54:05 PM CheckoutGetran executarComando
+INFORMAÇÕES: Executando comando: sshpass -p detran123 svn checkout svn+ssh://daniel.souza@172.25.136.61/usr/svn/veiculo/branches/ISSUES 2023/balcaodigital_dev/getran /home/daniel/testes/temp/getran-dev-balcao
+ago. 21, 2024 4:27:27 PM CheckoutGetran checkoutGetran
+INFORMAÇÕES: Iniciando checkout SVN para tipo de projeto 160
+ago. 21, 2024 4:27:27 PM CheckoutGetran checkoutSvn
+INFORMAÇÕES: Iniciando checkout SVN para URL: svn+ssh://daniel.souza@172.25.136.61/usr/svn/veiculo/branches/ISSUES 2023/balcaodigital_dev/getran
+ago. 21, 2024 4:27:27 PM CheckoutGetran executarComando
+INFORMAÇÕES: Executando comando: sshpass -p detran123 svn checkout svn+ssh://daniel.souza@172.25.136.61/usr/svn/veiculo/branches/ISSUES 2023/balcaodigital_dev/getran /home/daniel/testes/temp/getran-dev-balcao
